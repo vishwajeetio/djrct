@@ -1,0 +1,2 @@
+# djrct
+Django react project
